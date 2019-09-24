@@ -1,3 +1,4 @@
+//1. Create a field on Account named "Number of Contacts". Populate this field with the number of contacts related to an account.
 trigger ContactTrigger on Contact (after insert,after update,after delete,after undelete) {
 	//System.debug('ContactTrigger');
 
