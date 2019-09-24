@@ -1,6 +1,5 @@
 ({
 	doInit : function(component, event, helper) {
-		//var accList = Component.get('v.accList');
         var action = component.get('c.getAccount');
         action.setCallback(this,function(response){
             if(response.getState()==="SUCCESS"){
