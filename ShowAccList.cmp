@@ -12,7 +12,7 @@
                         <div class="slds-truncate" title="Name">Name</div>
                     </th>
                     <th scope="col">
-                        <div class="slds-truncate" title="Phone">Created Date</div>
+                        <div class="slds-truncate" title="Created Date">Created Date</div>
                     </th>
                 </tr>
             </thead>
